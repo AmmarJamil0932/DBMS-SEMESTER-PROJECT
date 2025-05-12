@@ -24,7 +24,6 @@ The ERD defines the structure of the system using entities like:
 
 👉 _Detailed ERD and Relational Schema can be found in [ERD.pdf](./ERD.pdf)_
 
----
 
 ### 2. Normalization
 
