@@ -10,7 +10,7 @@ This is a semester project for the Database Management Systems (DBMS) course at 
 
 ## 🧠 Objective
 
-The objective of this project is to address common issues students face during course registration — such as timetable clashes and inefficient course allocation — by implementing a centralized database system.
+The objective of this project is to address common issues students face during course registration — such as timetable clashes a by implementing a centralized database system.
 
 ## 📚 Project Components
 
